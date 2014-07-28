@@ -66,7 +66,7 @@ Other Applications (e.g., digital libraries, enterprise search, genomics IR, leg
 
 备注：SIGIR2014在澳大利亚黄金海岸召开，提交日期：2014年1月20日-27日；通知日期2014年4月18日；终稿提交日期2014年5月11日。
 
- EMNLP（统计自然语言处理会议）
+ EMNLP（由ACL下设兴趣小组SIGDAT（Linguistic data and corpus-based approaches to NLP）组织）
 --------------------------
 SIGDAT, the Association for Computational Linguistics' special interest group on linguistic data and corpus-based approaches to NLP.Topics includ but not limited to: 
 
@@ -100,20 +100,26 @@ The IEEE International Conference on Data Mining (ICDM) has established itself a
 
 备注：ICDM虽然从2001年开始举办，但名气上升很快，在数据挖掘方面俨然有追上SIGKDD的趋势。ICDM2014于2014年12月14日-2014年12月17日在中国深圳召开；提交日期：2014年6月24日；通知日期：2014年9月24日。
 
- COLING
--------
+ CONLL（由ACL下设的特殊兴趣小组SIGNLL（Natural Language Learning）组织）
+-----------------------------------------------------------------------
+ COLING（由International Committee on Computational Linguistics组织，每两年举办一次）
+------------------------------------------------------------------------------------
  IJCAI（AI最好的综合性会议）
-------------------------
- SIGKDD
--------
+---------------------------
+ SIGKDD（数据挖掘国际一流会议）
+------------------------------
  SIGCHI
 -------
  SIGMOD(数据库领域顶级会议)
--------
+---------------------------
  CIKM
 -----
- NAACL
-------
+ NAACL（ACL在北美的分会）
+------------------------
+NAACL2015于2014年12月4日在美国科罗拉多州丹佛市举行；截稿日期：2014年12月4日；通知日期：2015年2月20日。
+
+ EACL（ACL在欧洲的分会）
+-----------------------
 
 国内会议列表
 ===========
