@@ -108,7 +108,7 @@ The IEEE International Conference on Data Mining (ICDM) has established itself a
 -------
  SIGCHI
 -------
- SIGMOD
+ SIGMOD(数据库领域顶级会议)
 -------
  CIKM
 -----

@@ -1,0 +1,209 @@
+AREA: Databases
+
+
+Rank 1:
+
+
+       SIGMOD: ACM SIGMOD Conf on Management of Data
+       PODS: ACM SIGMOD Conf on Principles of DB Systems
+       VLDB: Very Large Data Bases
+       ICDE: Intl Conf on Data Engineering
+
+       CIKM: Intl. Conf on Information and Knowledge Management
+       ICDT: Intl Conf on Database Theory
+
+
+Rank 2:
+
+SSD: Intl Symp on Large Spatial Databases
+DEXA: Database and Expert System Applications
+FODO: Intl Conf on Foundation on Data Organization
+EDBT: Extending DB Technology
+DOOD: Deductive and Object-Oriented Databases
+DASFAA: Database Systems for Advanced Applications
+SSDBM: Intl Conf on Scientific and Statistical DB Mgmt
+CoopIS - Conference on Cooperative Information Systems
+ER - Intl Conf on Conceptual Modeling (ER)
+
+ 
+
+Rank 3:
+
+
+COMAD: Intl Conf on Management of Data
+BNCOD: British National Conference on Databases
+ADC: Australasian Database Conference
+ADBIS: Symposium on Advances in DB and Information Systems
+DaWaK - Data Warehousing and Knowledge Discovery
+RIDE Workshop
+IFIP-DS: IFIP-DS Conference
+IFIP-DBSEC - IFIP Workshop on Database Security
+NGDB: Intl Symp on Next Generation DB Systems and Apps
+ADTI: Intl Symp on Advanced DB Technologies and Integration
+FEWFDB: Far East Workshop on Future DB Systems
+MDM - Int. Conf. on Mobile Data Access/Management (MDA/MDM)
+VDB - Visual Database Systems
+IDEAS - International Database Engineering and Application Symposium
+
+Others:
+
+
+ARTDB - Active and Real-Time Database Systems
+CODAS: Intl Symp on Cooperative DB Systems for Adv Apps
+DBPL - Workshop on Database Programming Languages
+EFIS/EFDBS - Engineering Federated Information (Database) Systems
+KRDB - Knowledge Representation Meets Databases
+NDB - National Database Conference (China) 
+NLDB - Applications of Natural Language to Data Bases
+FQAS - Flexible Query-Answering Systems
+IDC(W) - International Database Conference (HK CS)
+RTDB - Workshop on Real-Time Databases
+SBBD: Brazilian Symposium on Databases
+WebDB - International Workshop on the Web and Databases
+WAIM: Interational Conference on Web Age Information Management
+DASWIS - Data Semantics in Web Information Systems
+DMDW - Design and Management of Data Warehouses
+DOLAP - International Workshop on Data Warehousing and OLAP
+DMKD - Workshop on Research Issues in Data Mining and Knowledge Discovery
+KDEX - Knowledge and Data Engineering Exchange Workshop
+NRDM - Workshop on Network-Related Data Management
+MobiDE - Workshop on Data Engineering for Wireless and Mobile Access
+MDDS - Mobility in Databases and Distributed Systems
+MEWS - Mining for Enhanced Web Search
+TAKMA - Theory and Applications of Knowledge MAnagement
+WIDM: International Workshop on Web Information and Data Management
+W2GIS - International Workshop on Web and Wireless Geographical Information Systems
+CDB - Constraint Databases and Applications
+DTVE - Workshop on Database Technology for Virtual Enterprises
+IWDOM - International Workshop on Distributed Object Management 
+OODBS - Workshop on Object-Oriented Database Systems
+PDIS: Parallel and Distributed Information Systems 
+ 
+
+AREA: Artificial Intelligence and Related Subjects
+
+
+  Rank 1:
+      
+
+AAAI: American Association for AI National Conference
+CVPR: IEEE Conf on Comp Vision and Pattern Recognition
+IJCAI: Intl Joint Conf on AI
+ICCV: Intl Conf on Computer Vision
+ICML: Intl Conf on Machine Learning
+KDD: Knowledge Discovery and Data Mining
+KR: Intl Conf on Principles of KR & Reasoning
+NIPS: Neural Information Processing Systems
+UAI: Conference on Uncertainty in AI
+AAMAS: Intl Conf on Autonomous Agents and Multi-Agent Systems (past: ICAA)
+ACL: Annual Meeting of the ACL (Association of Computational Linguistics)
+
+Rank 2:
+
+
+ NAACL: North American Chapter of the ACL
+AID: Intl Conf on AI in Design
+AI-ED: World Conference on AI in Education
+CAIP: Inttl Conf on Comp. Analysis of Images and Patterns
+CSSAC: Cognitive Science Society Annual Conference
+ECCV: European Conference on Computer Vision
+EAI: European Conf on AI
+EML: European Conf on Machine Learning
+GECCO: Genetic and Evolutionary Computation Conference (used to be GP)
+IAAI: Innovative Applications in AI
+ICIP: Intl Conf on Image Processing
+ICNN/IJCNN: Intl (Joint) Conference on Neural Networks
+ICPR: Intl Conf on Pattern Recognition
+ICDAR: International Conference on Document Analysis and Recognition
+ICTAI: IEEE conference on Tools with AI
+AMAI: Artificial Intelligence and Maths
+DAS: International Workshop on Document Analysis Systems
+WACV: IEEE Workshop on Apps of Computer Vision
+COLING: International Conference on Computational Liguistics 
+EMNLP: Empirical Methods in Natural Language Processing
+EACL: Annual Meeting of European Association Computational Lingustics
+CoNLL: Conference on Natural Language Learning
+DocEng: ACM Symposium on Document Engineering
+IEEE/WIC International Joint Conf on Web Intelligence and Intelligent Agent Technology
+ICDM - IEEE International Conference on Data Mining
+ 
+
+
+  Rank 3:
+
+
+ PRICAI: Pacific Rim Intl Conf on AI
+AAI: Australian National Conf on AI
+ACCV: Asian Conference on Computer Vision
+AI*IA: Congress of the Italian Assoc for AI
+ANNIE: Artificial Neural Networks in Engineering
+ANZIIS: Australian/NZ Conf on Intelligent Inf. Systems
+CAIA: Conf on AI for Applications
+CAAI: Canadian Artificial Intelligence Conference
+ASADM: Chicago ASA Data Mining Conf: A Hard Look at DM
+EPIA: Portuguese Conference on Artificial Intelligence
+FCKAML: French Conf on Know. Acquisition & Machine Learning
+ICANN: International Conf on Artificial Neural Networks
+ICCB: International Conference on Case-Based Reasoning
+ICGA: International Conference on Genetic Algorithms
+ICONIP: Intl Conf on Neural Information Processing
+IEA/AIE: Intl Conf on Ind. & Eng. Apps of AI & Expert Sys
+ICMS: International Conference on Multiagent Systems
+ICPS: International conference on Planning Systems
+IWANN: Intl Work-Conf on Art & Natural Neural Networks
+PACES: Pacific Asian Conference on Expert Systems
+SCAI: Scandinavian Conference on Artifical Intelligence
+SPICIS: Singapore Intl Conf on Intelligent System
+PAKDD: Pacific-Asia Conf on Know. Discovery & Data Mining
+SMC: IEEE Intl Conf on Systems, Man and Cybernetics
+PAKDDM: Practical App of Knowledge Discovery & Data Mining
+WCNN: The World Congress on Neural Networks
+WCES: World Congress on Expert Systems
+ASC: Intl Conf on AI and Soft Computing
+PACLIC: Pacific Asia Conference on Language, Information and Computation
+ICCC: International Conference on Chinese Computing
+ICADL: International Conference on Asian Digital Libraries
+RANLP: Recent Advances in Natural Language Processing
+NLPRS: Natural Language Pacific Rim Symposium
+Meta-Heuristics International Conference
+
+
+Rank 3:
+
+ICRA: IEEE Intl Conf on Robotics and Automation
+NNSP: Neural Networks for Signal Processing
+ICASSP: IEEE Intl Conf on Acoustics, Speech and SP
+GCCCE: Global Chinese Conference on Computers in Education 
+ICAI: Intl Conf on Artificial Intelligence
+AEN: IASTED Intl Conf on AI, Exp Sys & Neural Networks
+WMSCI: World Multiconfs on Sys, Cybernetics & Informatics
+LREC: Language Resources and Evaluation Conference
+AIMSA: Artificial Intelligence: Methodology, Systems, Applications
+AISC: Artificial Intelligence and Symbolic Computation
+CIA: Cooperative Information Agents
+International Conference on Computational Intelligence for Modelling, Control and Automation
+Pattern Matching
+ECAL: European Conference on Artificial Life
+EKAW: Knowledge Acquisition, Modeling and Management
+EMMCVPR: Energy Minimization Methods in Computer Vision and Pattern Recognition
+EuroGP: European Conference on Genetic Programming
+FoIKS: Foundations of Information and Knowledge Systems
+IAWTIC: International Conference on Intelligent Agents, Web Technologies and Internet Commerce
+ICAIL: International Conference on Artificial Intelligence and Law
+SMIS: International Syposium on Methodologies for Intelligent Systems
+IS&N: Intelligence and Services in Networks
+JELIA: Logics in Artificial Intelligence
+KI: German Conference on Artificial Intelligence
+KRDB: Knowledge Representation Meets Databases
+MAAMAW: Modelling Autonomous Agents in a Multi-Agent World
+NC: ICSC Symposium on Neural Computation
+PKDD: Principles of Data Mining and Knowledge Discovery
+SBIA: Brazilian Symposium on Artificial Intelligence
+Scale-Space: Scale-Space Theories in Computer Vision
+XPS: Knowledge-Based Systems
+I2CS: Innovative Internet Computing Systems
+TARK: Theoretical Aspects of Rationality and Knowledge Meeting
+MKM: International Workshop on Mathematical Knowledge Management
+ACIVS: International Conference on Advanced Concepts For Intelligent Vision Systems
+ATAL: Agent Theories, Architectures, and Languages
+LACL: International Conference on Logical Aspects of Computational Linguistics
