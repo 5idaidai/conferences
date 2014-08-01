@@ -124,12 +124,22 @@ NAACL2015于2014年12月4日在美国科罗拉多州丹佛市举行；截稿日�
 国内会议列表
 ===========
  CCIR
+ 中国中文信息学会主办的每年一次的“全国信息检索学术会议”（CCIR）系列，已成功举办过8届，是国内信息检索领域最主要的学术活动之一。
+
+ 备注： 第二十届全国信息检索学术会议（The 20th China Conference on Information Retrieval,简称CCIR2014）由中国计算机学会（CCF）和中国中文信息学会（CIPS）联合主办，昆明理工大学承办，定于2014年8月8日-10日在云南昆明召开。所有被CCIR2014录用的论文将被推荐到《计算机学报》、《计算机研究与发展》、《模式识别与人工智能》、《中文信息学报》、《数据采集与处理》、《山东大学学报(理学版)》、《计算机科学与探索》、《山西大学学报（自然科学版）》等期刊的正刊上发表.
 -----
- CCL
+ CCL(China National Conference on Computational Linguistics)
+ CCL作为国内最大的自然语言处理专家学者的社团组织——中国中文信息学会（CIPS）的旗舰会议，全国计算语言学会议从1991年开始每两年举办一次，从2013年开始每年举办一次。CCL着重于中国境内各类语言的计算处理，为传播计算语言学最新的学术和技术成果提供了广泛的交流平台。
+
+ 备注：CCL2014是第十三届全国计算语言学学术会议，将于2014年10月18日—19日在武汉华中师范大学举行。同时，被CCL2014录用为口头报告的论文将被直接推到中文信息学报发表，被录用为海报张贴的论文将被推到其他中文核心期刊发表（有些期刊可能要再审）。
 ----
  CLP
+ 2014年中文处理资源与评测国际会议（CLP-2014）是由中国中文信息学会（CIPS）和国际计算语言学协会中文处理特别兴趣组（SIGHAN）联合组织的第三届中文处理国际学术会议。CLP-2014 将于2014年10月在中国武汉华中师范大学举行。
+本次中文处理资源与评测国际会议（CLP-2014）旨在为中文处理领域中全球的研究人员提供一个展示研究成果、交流学术思想、探索研究新方向、推动研究发展的平台。本次会议的投稿论文应与中文信息处理相关，具有学术或实用价值, 未在国内外学术期刊或会议发表过。录用论文中的高质量论文将被推荐发表在special issue of ACM Transaction on Asian Language Information Processing (TALIP)，并且所有的录用论文将在ACL Anthology保存和检索。
 ----
  CLSW
+ 汉语词汇语义学国际研讨会(Chinese Lexical Semantic Workshop，简称CLSW) 由台湾中央研究院院士、美国伊利诺大学讲座教授郑锦全先生、北京大学俞士汶教授与香港理工大学黄居仁教授等共同倡办。自2000年起，连续13载，先后在香港、北京、台北、新加坡、厦门、新竹、烟台、苏州、武汉等地举行。CLSW 是汉语词汇语义学和相关领域（如理论语言学, 应用语言学、计算语言学和词典计算机辅助编纂等）的重要学术会议，已形成系列，并产生广泛的影响，推动了本领域的学术研究和应用开发。
 ----
  NLPCC
+ The conference on Natural Language Processing and Chinese Computing (NLPCC) is the annual conference of CCF TCCI (Technical Committee of Chinese Information, China Computer Federation). The first and the second NLPCC conferences were successfully held in Beijing in 2012 and Chongqing in 2013. As a leading conference in the field of NLP and Chinese Computing, NLPCC has been the premier forum for Chinese researchers and practitioners in NLP from academia, industry, and government to share their ideas, research results and experiences, and to promote the research and technical innovations in these fields. From this year, NLPCC will become an international conference. Contributions from not only China, but also Pacific Asia areas and all over the world are solicited.
 ---
